@@ -1,0 +1,15 @@
+.container {
+    text-align: center;
+    margin-top: 60px;
+    padding: auto;
+    color: rgb(6, 68, 6);
+    background-color: rgb(224, 224, 68);
+  }
+  
+  #weather-info {
+    margin-top: 20px;
+  }
+  body{
+    background-color: rgb(0, 204, 255);
+    
+  }
